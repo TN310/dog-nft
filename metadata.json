@@ -1,0 +1,17 @@
+{
+  "name": "Too Cool",
+  "symbol": "DOGGO",
+  "description": "A dog in sunglasses. One ear up, one ear down, tongue out, gold chain. Drawn entirely in code, minted once on Solana.",
+  "image": "https://raw.githubusercontent.com/TN310/dog-nft/main/dog.svg",
+  "attributes": [
+    { "trait_type": "Eyewear",  "value": "Black Shades" },
+    { "trait_type": "Ears",     "value": "One Up One Down" },
+    { "trait_type": "Tongue",   "value": "Out" },
+    { "trait_type": "Chain",    "value": "Gold" },
+    { "trait_type": "Mood",     "value": "Too Cool" }
+  ],
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/TN310/dog-nft/main/dog.svg", "type": "image/svg+xml" }],
+    "category": "image"
+  }
+}
